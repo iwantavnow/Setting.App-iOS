@@ -1,4 +1,8 @@
-# Setting.App iOS 版本
+# Language
+* [English](https://github.com/iwantavnow/Setting.App-iOS/blob/master/README.md)
+* [中文](https://github.com/iwantavnow/Setting.App-iOS/blob/master/README_zh.md)
+
+# Setting iOS App
 App 完整介紹 [可到這裏觀看](https://github.com/iwantavnow/avtv)
 
 # 變更紀錄
