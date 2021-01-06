@@ -8,6 +8,7 @@
   * iOS 9
   * iPadOS 13
 * Support Architectures
+  * armv7
   * arm64
   * i386
   * x86_64
